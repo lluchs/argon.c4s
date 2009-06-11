@@ -110,15 +110,6 @@ protected func InitializePlayer(int iPlr)
   // Die Anzahl der Relaunches über dem König ausgeben
   Message("@Relaunches:|%d", 0, iRelaunchesCount);
  }
- 
- // zwei mal Zusatzclonks für Spezialaktionen
- var pChange;
- for(var i = 0; i < 2; i++) {
- 	pChange = CreateObject(_CHA, 0, 0, iPlr);
- 	MakeCrewMember(pChange, iPlr);
- 	pChange -> SetNum(i);
- 	pChange -> SetClonk(pKing);
- }
 }
 
 global func SetRelaunches(int iChange)

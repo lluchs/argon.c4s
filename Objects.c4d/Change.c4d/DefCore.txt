@@ -1,9 +1,0 @@
-[DefCore]
-id=_CHA
-Name=Change
-Category=C4D_StaticBack
-Width=1
-Height=1
-Picture=0,0,15,15
-CrewMember=1
-TemporaryCrew=1
