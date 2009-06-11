@@ -1,0 +1,4 @@
+MsgNoRelaunchesLeft=%s, killed by %s, has no relaunches anymore!
+MsgXRelaunchesLeft=%s, killed by %s, has still %d of %d relaunches!
+MsgNoRelaunchesLeftNoKiller=%s has no relaunches anymore!
+MsgXRelaunchesLeftNoKiller=%s has still %d of %d relaunches!

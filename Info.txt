@@ -1,0 +1,103 @@
+english translation below
+
+---------------------
+Neu in Version Luchs 2
+- Schnellzaubermenü bei Menüsystem auf Spezial 2
+- Schnellzauber einstellen auf Clonkwechsel Links
+- Normales Zaubermenü auf Clonkwechsel Rechts
+- Activate des ersten Inhaltsobjektes auf Clonkwechsel Mitte
+
+Neu in Version Luchs 1
+- Wenn keine Relaunches mehr vorhanden bekommt man bei einem Kill einen.
+- Kombosystem, wenn dieses beim Magus verwendet wird.
+- vieles auf #strict 2 gebracht
+- Cooldownsystem ein wenig umgebaut
+
+Neu in Version 1.45 NET2
+- Der Zauber "Tarnen" kostet nun doch wieder seine ursprEgliche 14 Manapunkte.
+- Es gibt nun ein Scoreboard, in welchem man bequem die Relaunches aller Spieler auf einen Blick sieht.
+- Der Zauber "Waffengang" wurde entfernt, dafE fallen nun Funken vom Himmel, die beim Aufprall ein zufälliges Objekt erschaffen.
+- Die Kills werden nun gezählt, und auch im Scoreboard angezeigt. FE jeden Kill bekommt man ein paar Bonusobjekte, fE jeden 3. Kill bekommt man sogar einen Bonusrelaunch.
+
+Neu in Version 1.42
+- Der Zauber "Tarnen" kostet nun 22 Manapunkte und der Stein verletzt Clonks nurnoch sehr schwach.
+
+Neu in Version 1.4
+- Das Szenario sowie die enthaltenen Objekte wurden in das Englische Eersetzt.
+- Es gibt einen Relaunchdelay von 2 Sekunden, um zu verhindern, dass der gerelaunchte König an einem Kommando stirbt, dass den alten König retten sollte.
+- In der Spielerinformation steht nun die Anzahl der verbleibenden Relaunchs.
+- Das kleine, runde Kraftfeld sowie der Zauber Spionage wurden entfernt.
+- Der Feuerball kann nun nicht mehr steil nach unten schießen.
+- Das Abklingzeitsystem ist nun nurnoch ein Objekt, welches mit Effekten arbeitet und auch gut fE andere Szenarien benutzt werden kann.
+- Alles wurde an CE angepasst, vor allem die teilweise zerstörbaren Kraftfelder.
+- Sehr viele sonstige, kleine Änderungen und Bugfixes.
+
+Neu in Version 1.3
+- Die Zauber Feuerball, Feuerfaust, Waffengang und Meteoritenhagel haben nun eine Abklingzeit.
+- Die Standard-Relaunchzahl beträgt nun 5.
+- Viele sonstige kleine Änderungen und Bugfixes.
+
+Neu in Version 1.2
+- Horizontale Blitze.
+- In das Spiel hineinkopierte Zauber werden dem ZaubermenEautomatisch hinzugefEt.
+- Feuerball nicht mehr so stark.
+- Viele sonstige kleine Änderungen und Bugfixes.
+
+Neu in Version 1.1
+- Schnelleres Zaubern möglich, da das KontextmenErausgenommen worden ist.
+- Mehr Blitze und schnellere Mana-Regeneration.
+
+Vielen Dank auch an:
+- Armin Burgmeier (Clonk-Karl), fE seinen Feuerball Zauber.
+- Florian Peter (Zeus), fE seine gute Story.
+- #clonken fE viele, wertvolle Verbesserungsvoschläge.
+
+Bugs, Kritik und Ideen bitte an mich:
+
+Tim Wölfle
+tim.woelfle@web.de
+http://www.TimWoelfle.de
+
+
+
+
+------------------------------------------
+
+
+What's new in 1.45 NET2?
+- The spell "Camouflage" costs justs 14 manapoints again.
+- There's a new scoreboard, in which you can see the relaunches of all players.
+- The spell "Weaponcourse" was removed. Now there are sparks, which fall from above and which create a random object on bounce.
+- Kills are counted now and also shown in the scoreboard. For each kill, you'll get some objects, for each third kill, you'll get an extra relaunch.
+
+What's new in 1.42?
+- The spell "Camouflage" costs 22 manapoints now and the stone hurts clonks now just a little bit.
+
+What's new in 1.4?
+- The scenario and the contained objects were translated into English.
+- There is a relaunch delay of 2 seconds now.
+- You can see your remaining relaunchs in the player information.
+- The spells "Local force field" and "Spying" were deleted.
+- The fireball can't shoot directly down anymore.
+- The cooldown object works with effects now.
+- Everything was adjusted to Clonk Endeavour.
+- A lot of other changes and bugfixes.
+
+Thanks to:
+- Armin Burgmeier (Clonk-Karl), for his spell "Fireball".
+- Florian Peter (Zeus), for his good story.
+- #clonken, for a lot of good suggestions for improvement.
+
+Please send bugs, criticism and ideas to me:
+
+Tim Wölfle
+tim.woelfle@web.de
+http://www.TimWoelfle.de
+
+
+
+
+
+-------------------------------
+
+aktualisierte Version by ala - version CR beta 252

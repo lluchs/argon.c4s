@@ -1,0 +1,3 @@
+If this object is activated, some spells have a cooldown time if they are spoken with a magiclonk, a sorcerer or a king.
+
+This means that you have to wait a short time until you are able to respeak the spell.

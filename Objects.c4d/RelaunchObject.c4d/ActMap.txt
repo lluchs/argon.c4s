@@ -1,0 +1,7 @@
+[Action]
+Name=Wait
+Procedure=NONE
+Length=1
+Delay=35
+NextAction=Wait
+StartCall=Execute

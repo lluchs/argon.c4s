@@ -1,0 +1,2 @@
+DE:Abklingzeit
+US:Cooldown time

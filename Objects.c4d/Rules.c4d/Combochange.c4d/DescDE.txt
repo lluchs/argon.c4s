@@ -1,0 +1,1 @@
+Mithilfe dieser Regel kann der Kombomenümodus auch ohne Kontextmenü geändert werden.

@@ -1,0 +1,12 @@
+[DefCore]
+id=_BOB
+Name=Burner
+Version=4,9,5,3
+Category=16
+Width=16
+Height=20
+Offset=-8,-10
+Value=0
+Mass=0
+Picture=0,0,1,1
+ContactIncinerate=1

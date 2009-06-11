@@ -1,0 +1,9 @@
+[DefCore]
+id=WC7U
+Version=4,9,5,3
+Name=Weaponcourse
+Category=131072
+Width=1
+Height=1
+Value=20
+Picture=0,0,64,64

@@ -1,0 +1,1 @@
+With this rule you are able to change the combomenu without the context menu.

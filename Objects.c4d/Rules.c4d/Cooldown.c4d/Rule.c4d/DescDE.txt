@@ -1,0 +1,3 @@
+Dieses Objekt modifiziert Zauberclonks, Magiere und Könige so, dass manche Zauber von ihnen eine Abklingzeit haben.
+
+Das heißt, dass sie einen Zauber, nachdem sie ihn eingesetzt haben, danach für eine kurze Zeit nicht mehr benutzen können.

@@ -1,0 +1,11 @@
+# Context-Descs
+CtxMagicDesc=Cast a spell
+
+# Menutexte
+MnuNoSpells=No spells known
+MnuCast=Cast
+
+# Nachrichten
+MsgNotEnoughEnergy=Not enough|magical energy!
+MsgNotEnoughIngredients=Not enough|alchemistic|ingredients!
+MsgCooldown=Cooldown time|didn't finish yet!

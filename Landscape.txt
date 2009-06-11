@@ -1,0 +1,4 @@
+map argon
+{
+ overlay {algo=random; mat=Snow; tex=Flare2; a=200; sub=0;};
+};

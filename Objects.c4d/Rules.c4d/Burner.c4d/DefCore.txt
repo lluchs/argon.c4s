@@ -1,0 +1,11 @@
+[DefCore]
+id=_KBN
+Name=Burner
+Version=4,9,5,3
+Category=C4D_StaticBack|C4D_Rule
+MaxUserSelect=1
+Width=1
+Height=1
+Value=1
+Mass=0
+Picture=0,0,64,64
