@@ -172,10 +172,6 @@ protected func OnClonkDeath(object pClonk, int iKilledBy) {
  MakeCrewMember(pKing, iPlr);
  SetCursor(iPlr, pKing, true);
  DoEnergy(100 - GetEnergy(pKing), pKing);
- 
- // Changerobjekt den neuen König geben
- for(var pChanger in FindObjects(Find_ID(_CHA), Find_Owner(iPlr)))
- 	pChanger -> SetClonk(pKing);
 
  // Dem König volle Zauberenergie geben
  pKing->~MagicEnergy();
