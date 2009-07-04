@@ -14,7 +14,7 @@ SkipDefs=MQKE=0;MFFA=0;MFFS=0;MLGT=0;MVLC=0;MGWP=0;MWP2=0;RVLT=0;MINV=0;MGDW=0;M
 [Game]
 ValueOverloads=FRFS=15;
 Goals=MELE=1;
-Rules=SURR=1;BK7U=1;_CMC=1;_CLD=1;
+Rules=SURR=1;BK7U=1;_CMC=1;_CLD=1;_KBN=1;
 
 [Player1]
 Crew=KING=1;

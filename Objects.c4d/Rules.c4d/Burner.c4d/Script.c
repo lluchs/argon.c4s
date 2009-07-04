@@ -1,17 +1,21 @@
 /* Brennbare Könige */
 
-#strict 2
+#strict
 
-protected func Activate(int iPlr) {
-	MessageWindow(GetDesc(), iPlr);
-	return 1;
+protected func Check()
+{
+ var king, burnobject;
+ while (king = FindObject(KING, 0,0,0,0, 0, 0,0, 0, king))
+ {
+  burnobject = FindObject(_BOB, 0,0,0,0, 0, "Exist",king);
+  if (Contained(king))
+   continue;
+  if (!burnobject)
+   ObjectSetAction(CreateObject(_BOB, 0,0, GetOwner(king)), "Exist", king);
+ }
 }
 
-#appendto KING
-
-protected func Initialize() {
-	var pFlam = CreateObject(DFLM);
-	pFlam -> SetAction("Idle");
-	AddEffect("IntKingBurner", pFlam, 1, 30, 0, _KBN, this);
-	return _inherited(...);
+protected func Activate()
+{
+ MessageWindow(GetDesc(),Par());
 }
