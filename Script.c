@@ -3,6 +3,7 @@
 #strict 2
 
 static const KillsPerRelaunchGain = 3;
+static const MaxMagicEnergySupply = 12;
 
 static	iRelaunchesCount, aRelaunches, aKills,
 	fNoRelaunchPlayer;
@@ -42,9 +43,10 @@ protected func Script10()
 {
  var pObj;
 
- // Allen Königen neue Zauberenergie geben
+ // Allen Königen neue Zauberenergie geben (je nach Spielerzahl)
+ var iMagicEnergy = MaxMagicEnergySupply / GetPlayerCount();
  for(pObj in FindObjects(Find_ID(KING)))
-   DoMagicEnergy(1, pObj);
+   pObj -> DoMagicEnergy(iMagicEnergy, 0, true);
 
  // Vllt noch ein Blitz?
  var r = Random(2);
