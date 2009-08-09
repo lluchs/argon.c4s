@@ -9,12 +9,15 @@ protected func Initialize() {
 	var iEffectNumber = GetEffect("FireballFlight", this);
 	if(!iEffectNumber)
 		return;
-	EffectVar(5, this, iEffectNumber) = (10 + Random(10)) * 6;
-	EffectVar(1, this, iEffectNumber) = 50;
+	EffectVar(1, this, iEffectNumber) = 60;
 	return 1;
 }
 
-public func SetSizeBoost(int iTo) { // damit der Flintkombo was bringt
-	iTo += 3 * 6;
+public func SetSizeBoost(int iTo) {
+	if(!iTo)
+		iTo = (15 + Random(11)) * 6;
+	else
+		// damit der Flintkombo was bringt
+		iTo += iTo / 2;
 	return inherited(iTo, ...);
 }
